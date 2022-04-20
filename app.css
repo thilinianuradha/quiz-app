@@ -1,5 +1,5 @@
 :root {
-    background-color: #ecf5ff;
+    background-color: #F6E7D8;
     font-size: 62.5%;
   }
   
@@ -20,7 +20,7 @@
   
   h1 {
     font-size: 5.4rem;
-    color: #56a5eb;
+    color: #C65D7B;
     margin-bottom: 5rem;
   }
   
@@ -84,10 +84,10 @@
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #56a5eb;
+    border: 0.1rem solid #C65D7B;
     margin-bottom: 1rem;
     text-decoration: none;
-    color: #56a5eb;
+    color: #F68989;
     background-color: white;
   }
   
